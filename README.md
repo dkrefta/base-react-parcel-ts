@@ -1,1 +1,3 @@
-this project was bootstrapped with <http://github.com/sw-yx/create-react-app-parcel>
+# React App (Parcel+TS)
+
+## A custom boilerplate
