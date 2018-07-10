@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/app-settings.js"],"names":["document","title"],"mappings":";AAAIA,WACOC,SAAAA,MAAQ","file":"app-settings.a303937f.map","sourceRoot":"../public","sourcesContent":["if (document) {\n  document.title = process.env.APP_NAME || 'Base App';\n}\n"]}
