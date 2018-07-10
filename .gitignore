@@ -8,6 +8,7 @@
 
 # production - note this is different from webpack
 /dist
+/build
 /.cache
 
 # misc
