@@ -1,0 +1,18 @@
+// https://github.com/progre/tslint-config-airbnb
+// https://github.com/palantir/tslint-react
+// https://github.com/alexjoverm/tslint-config-prettier
+{
+  "extends": ["tslint-config-airbnb", "tslint-react", "tslint-config-prettier"],
+  "baseUrl": ".",
+  "jsRules": {},
+  "rules": {
+    "class-name": true,
+    "import-name": false,
+    "variable-name": false,
+    "function-name": false,
+    "jsx-no-lambda": false,
+    "indent": [true, "spaces", 2]
+  },
+  "rulesDirectory": [],
+  "defaultSeverity": "warning"
+}

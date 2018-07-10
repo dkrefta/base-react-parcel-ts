@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.semi": true,
+  "html.format.enable": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.rulers": [
+    100
+  ],
+}
